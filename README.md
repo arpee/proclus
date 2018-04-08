@@ -33,8 +33,8 @@ the defaults.
 
 * RUNNING SAITO *
 
-Please see the INSTALL file for instructions on getting Saito running. 
-Once the program is executing, you can connect to Saito through your 
+Please see the INSTALL file for instructions on getting Proclus.g running. 
+Once the program is executing, you can connect to Proclus.g through your 
 browser:
 
 http://localhost:12101
@@ -42,17 +42,17 @@ http://localhost:12101
 If you are interested in developing the application, you can find the 
 default start page for the main server in the source code directory at:
 
-lib/saito/web/index.html
+lib/proclus/web/index.html
 
 Most of the user-driven functionality is coded in optional modules that 
 create web applications. Our blockchain explorer, for instance, is just 
-a regular Saito application module (info). The file that controls which 
+a regular Proclus.g application module (info). The file that controls which 
 modules are loaded is:
 
 lib/modules/mods.js
 
 The modules themselves are contained in sub-directories within that 
-directory. A good way to get familiar with Saito (and find out how it
+directory. A good way to get familiar with Proclus.g (and find out how it
 works under the hood) is to look at these modules. Existing apps can 
 act as simple tutorials on how to code your own applications.
 
