@@ -31,7 +31,7 @@ the defaults.
 
 
 
-* RUNNING SAITO *
+* RUNNING PROCLUS *
 
 Please see the INSTALL file for instructions on getting Proclus.g running. 
 Once the program is executing, you can connect to Proclus.g through your 
